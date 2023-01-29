@@ -6,8 +6,11 @@ Animation done on 3d one to one skeleton version of the robot is converted and c
 
 https://user-images.githubusercontent.com/58361245/215296446-9d1bb27a-6887-4829-a3b7-d8efb24b8047.mp4
 
+
 https://user-images.githubusercontent.com/58361245/215296563-b7b48172-261b-4444-a8c4-baf626cad332.mp4
 
+
 ![schematic](https://user-images.githubusercontent.com/58361245/215296639-176adb74-c799-4cda-8318-bfade6ed3028.png)
+
 WIP image
 ![IMG_20220602_120620](https://user-images.githubusercontent.com/58361245/215320392-c5d16af3-d5f0-404c-906d-2387f2046bd9.jpg)
